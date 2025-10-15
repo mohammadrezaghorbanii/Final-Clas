@@ -1,0 +1,328 @@
+html {
+  scroll-behavior: smooth !important;
+}
+
+.dnone {
+  display: none;
+}
+
+.dblock {
+  display: block;
+}
+
+.boorder-bottom-1 {
+  border-bottom: 1px black solid;
+}
+
+.boorderbottom3 {
+  border-bottom: 2px black solid;
+}
+
+.boorder-bottom-2 {
+  border-bottom: 1px white solid;
+}
+
+.op0 {
+  opacity: 0;
+}
+
+.ensoni-div {
+  position: relative;
+  top: 150px;
+}
+
+.ensoni-ul {
+  list-style-type: none;
+}
+.ensoni-ul a {
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+}
+.ensoni-ul li {
+  margin-top: 20px;
+}
+
+.pr-1 {
+  padding-right: 350px;
+}
+
+.op1 {
+  opacity: 1;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+}
+
+.login {
+  text-decoration: none;
+  color: black;
+}
+
+.input-search {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px black solid;
+  color: black !important;
+  outline: none;
+}
+
+.ja-6 {
+  position: relative;
+  top: 300px;
+}
+
+.ja-7 {
+  position: relative;
+  top: 150px;
+}
+
+.text-gray {
+  color: rgb(85, 85, 85);
+}
+
+.no-ul {
+  list-style-type: none;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding-left: 80px;
+}
+.nav-list li a {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+
+.input-text {
+  border: 1px solid gainsboro;
+  height: 40px;
+  width: 250px;
+}
+
+.top-1 {
+  width: 50px;
+  text-align: center;
+  padding-top: 10px;
+  height: 50px;
+  background-color: gainsboro;
+  text-decoration: none;
+  position: relative;
+  bottom: 10px;
+  right: 50px;
+  color: black;
+}
+
+.input-submit {
+  height: 40px;
+  width: 50px;
+  border: 1px solid gainsboro;
+  position: relative;
+  left: 6px;
+  bottom: 1px;
+}
+
+.ghesmat-lebas-mardane {
+  overflow: hidden;
+  transition: all 0.5s ease;
+}
+
+.ghesmat-lebas-mardane-link {
+  position: relative;
+  bottom: 39px;
+  color: rgb(124, 124, 124);
+  text-decoration: none;
+  background-color: white;
+  width: 80px;
+  height: 50px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.ghesmat-lebas-mardane-link:hover {
+  color: black;
+}
+
+.ghesmat-bandi-1 {
+  color: black;
+  text-decoration: none;
+}
+
+#ghesmat-zanane {
+  position: relative;
+  bottom: 677px;
+}
+
+#ghesmat-bachegane {
+  position: relative;
+  bottom: 1353px;
+}
+
+.mahsol-slider-matn {
+  background-color: rgb(172, 172, 172);
+  width: 80px;
+  height: 35px;
+  position: relative;
+  top: 51px;
+}
+
+.moshahede {
+  width: 100px;
+  background-color: transparent;
+  border: 1px black solid;
+  text-decoration: none;
+  color: black;
+  transition: all 0.3s ease;
+  position: relative;
+  top: 175px;
+}
+
+.moshahede:hover {
+  background-color: black;
+  color: white;
+}
+
+.porfroshtarinha-h2 {
+  position: relative;
+  top: 40px;
+}
+
+.bottom-1 {
+  position: relative;
+  bottom: 1300px;
+}
+
+.mahbob-tarin-ha {
+  width: 100%;
+  height: 200px;
+  background-color: gainsboro;
+}
+
+.mahsol-berand {
+  width: 340px;
+  overflow: hidden;
+}
+
+.tarikh {
+  line-height: 1;
+  padding: 10px 5px 10px 5px;
+}
+
+.tarikh:hover {
+  border: 1px black solid;
+}
+
+.font-1 {
+  font-weight: 600;
+}
+
+.ul-ha {
+  list-style-type: none;
+}
+.ul-ha a {
+  color: black;
+  text-decoration: none;
+}
+.ul-ha li {
+  padding: 5px;
+}
+.ul-ha a:hover {
+  border-bottom: 1px black solid;
+}
+
+.mahsol-text-2 {
+  width: 120px !important;
+  height: 50px !important;
+}
+
+.ja-4 {
+  position: relative;
+  bottom: 450px;
+}
+
+.ja-5 {
+  position: relative;
+  bottom: 500px !important;
+}
+
+.tala-javaher-text {
+  position: relative;
+  width: 80px;
+  height: 45px;
+  background-color: gainsboro;
+  bottom: 379px;
+}
+
+.mahsol-text {
+  width: 80px;
+  height: 35px;
+  background-color: rgb(185, 185, 185);
+  position: relative;
+  bottom: 450px;
+  text-align: center;
+}
+
+.mahbob-tarin-jash {
+  position: relative;
+  bottom: 150px;
+}
+
+.moshahede-mahsolat {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  position: relative;
+  top: 20px;
+  padding-right: 100px;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.ja-2 {
+  position: relative;
+  bottom: 1100px;
+}
+
+.ja-3 {
+  position: relative;
+  bottom: 1100px;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper-slide-setting {
+  width: 60%;
+  overflow: hidden;
+}
+
+body {
+  background-color: black !important;
+}
+
+/*# sourceMappingURL=header.css.map */
